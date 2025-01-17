@@ -1,0 +1,205 @@
+Bookkeeper's Gambit: v
+Compass' Purification
+Vector Reflection +Y
+Numerical Reflection: 5 //change this number to adjust focal port distance
+Multiplicative Distillation
+Additive Distillation
+Entity Purification
+Gemini Decomposition
+Chronicler's Purification
+Leaping Reflection
+Numerical Reflection: 0
+Equality Distillation //port, [data], bool
+{
+    Flock's Disintegration //port, previous jump timestamp, flight bool
+    Jester's Gambit //port, flight bool, previous jump timestamp
+    Timekeeper's Reflection
+    Numerical Reflection: 40 //this number is highly dependent on the ping for your connection to the server. if you're getting too many false positives, reduce it. if it's too tricky to activate, increase it.
+    //I've also found that holding down space for a bit longer than a tick can help.
+    Subtractive Distillation
+    Maximus Distillation II //port, previous flight bool, bool
+    {
+        Negation Purification
+        Hallucinate Click
+    }
+    {
+        Aergia's Gambit
+    }
+    Flock's Disintegration
+    Augur's Exaltation
+    Hermes' Gambit//port, updated flight bool
+    Timekeeper's Reflection
+    Jester's Gambit
+    Numerical Reflection: 2
+    Flock's Gambit //port, [timestamp, bool]
+    Undertaker's Gambit
+    Chronicler's Gambit
+    Flock's Disintegration
+}
+{
+    Flock's Disintegration
+}
+Augur's Exaltation
+Hermes' Gambit
+//don't allow the wisp to starve itself to death
+Reservoir Reflection
+Numerical Reflection: 100
+Maximus Distillation
+Conjunction Distillation
+//fly!
+{
+    //get direction to orient movement around
+    Mind's Reflection
+    Alidade's Purification
+    Vector Disintegration
+    Bookkeeper's Gambit: v-v
+    Length Purification
+    Numerical Reflection: 1
+    Minimus Distillation
+    {
+        Mind's Reflection
+        Alidade's Purification
+        Vector Disintegration
+        Bookkeeper's Gambit: v-
+        Numerical Reflection: 0
+        Jester's Gambit
+        Vector Exaltation
+        Gemini Decomposition
+        Length Purification
+        Division Distillation
+    }
+    {
+        Mind's Reflection
+        Theodolite Purification
+        Mind's Reflection
+        Alidade's Purification
+        Vector Disintegration
+        //look vector y component is guaranteed to be either 1 or -1. Multiply this by -1 to get the number to multiply Theodolite by to make sure it's pointing the right way.
+        Bookkeeper's Gambit: v-v
+        Numerical Reflection: -1
+        Multiplicative Distillation
+        Multiplicative Distillation
+    }
+    Augur's Exaltation
+    Hermes' Gambit
+    //get vectors corresponding to control inputs
+    //w (just plain horizontal look)
+    Vector Reflection +Y
+    Arc's Reflection
+    Numerical Reflection: 2
+    Division Distillation
+    Rotation Distillation
+    Prospector's Gambit
+    Transformation Purification
+    Multiplication Distillation: Matrix
+    Restoration Purification //w, a
+    Jester's Gambit //a, w
+    Vector Reflection +Y
+    Arc's Reflection
+    Rotation Distillation
+    Prospector's Gambit
+    Transformation Purification
+    Multiplication Distillation: Matrix
+    Restoration Purification //a, w, s
+    Jester's Gambit //a, s, w
+    Vector Reflection +Y
+    Arc's Reflection
+    Numerical Reflection: 1.5
+    Multiplicative Distillation
+    Rotation Distillation
+    Prospector's Gambit
+    Transformation Purification
+    Multiplication Distillation: Matrix
+    Restoration Purification //a, s, w, d
+    Evade Reflection
+    Numerical Reflection: -1
+    Maximus Distillation
+    Numerical Reflection: 1
+    Numerical Reflection: 0
+    Augur's Exaltation
+    Multiplicative Distillation
+    Jester's Gambit
+    Charge Reflection
+    Numerical Reflection: -1
+    Maximus Distillation
+    Numerical Reflection: 1
+    Numerical Reflection: 0
+    Augur's Exaltation
+    Multiplicative Distillation
+    Additive Distillation //a, s, {d,w}
+    Jester's Gambit
+    Retreat Reflection
+    Numerical Reflection: -1
+    Maximus Distillation
+    Numerical Reflection: 1
+    Numerical Reflection: 0
+    Augur's Exaltation
+    Multiplicative Distillation
+    Additive Distillation
+    Jester's Gambit
+    Dodge Reflection
+    Numerical Reflection: -1
+    Maximus Distillation
+    Numerical Reflection: 1
+    Numerical Reflection: 0
+    Augur's Exaltation
+    Multiplicative Distillation
+    Additive Distillation //finalized WASD vector
+    Gemini Decomposition
+    Vector Reflection Zero
+    Inequality Distillation
+    Numerical Reflection: 10
+    Jester's Gambit
+    {
+        Division Distillation
+        Bookkeeper's Gambit: v
+    }
+    Flock's Disintegration
+    Augur's Exaltation
+    Hermes' Gambit
+    Telepathic Reflection
+    Numerical Reflection: -1
+    Maximus Distillation
+    Numerical Reflection: 3
+    Numerical Reflection: 1
+    Augur's Exaltation
+    Multiplicative Distillation
+    Vector Reflection +Y
+    //halve gravity rejection vector if sneaking
+    Mind's Reflection
+    Stadiometer's Purification
+    Mind's Reflection
+    Gulliver's Purification
+    Numerical Reflection: 1.5
+    Multiplicative Distillation
+    Maximus Distillation
+    Numerical Reflection: 8
+    Numerical Reflection: 4
+    Augur's Exaltation
+    Numerical Reflection: 98
+    Division Distillation
+    Multiplicative Distillation
+    Additive Distillation
+    Leaping Reflection
+    Numerical Reflection: -1
+    Maximus Distillation
+    Vector Reflection +Y
+    Numerical Reflection: 32
+    Division Distillation
+    Vector Reflection Zero
+    Augur's Exaltation
+    Additive Distillation
+    Mind's Reflection
+    Jester's Gambit
+    Vector Reflection +Y
+    Numerical Reflection: 100
+    Division Distillation
+    Subtractive Distillation
+    Impulse
+}
+{
+    Aergia's Gambit
+}
+Flock's Disintegration
+Augur's Exaltation
+Hermes' Gambit
