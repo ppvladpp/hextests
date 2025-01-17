@@ -1,3 +1,4 @@
+#wget(syntax_utils.hexpattern)(https://github.com/Shirtsy/HexLator/raw/dev/utils/syntax_utils.hexpattern)
 {
     Consideration: {
         // increase the max speed over the first few iterations to save media
